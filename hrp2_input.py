@@ -1,5 +1,6 @@
 import sys
 import glob
+import re
 
 #Path = r"C:\Users\giree\OneDrive\Desktop\minION_data\*.fasta" # user has to change the path whith all the fasta files
 
